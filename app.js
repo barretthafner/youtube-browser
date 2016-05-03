@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function(){
   var params = {
     responseType: 'json',
     part: 'snippet',
-    key: APIkey,
+    key: APIkey || "<?php getenv('youtubeKey') ?>",
     maxResults: 6,
   };
 
