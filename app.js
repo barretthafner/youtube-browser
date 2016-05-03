@@ -1,4 +1,4 @@
-// thinkful-tube
+// youtube-browswer
 // a YouTube searching app
 // requires lity (http://sorgalla.com/lity/) which requires jQuery
 // requires bootstrap
