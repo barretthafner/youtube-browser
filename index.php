@@ -1,4 +1,4 @@
 <?php
-header( 'Location: /index.html' ) ;
 $key = getenv('youtubeKey') ;
+header( 'Location: /index.html' ) ;
 ?>
