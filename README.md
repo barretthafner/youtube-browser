@@ -9,6 +9,7 @@ An app for searching and browsing youtube videos.
 ## Backstory
 Built for a bootcamp exercise, this app searches the YouTube API based upon a simple search term.
 I set out to do this task with the following requirements:
+
 1. No jQuery
 2. Display the videos in a lightbox
 3. Keep my YouTube API key out of my repository
